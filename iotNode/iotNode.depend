@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1481654264 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode_a-master\iotnodetest\src\iotdataqueue.cpp
+	<iostream>
+	"iotDataQueue.h"
+
+1482782876 c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode_a-master\iotnodetest\include\iotdataqueue.h
+
+1482869806 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode_a-master\iotnodetest\main.cpp
+	<iostream>
+	"iotDataQueue.h"
+
+1482860959 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode_a-master\iotnodetest\src\display.cpp
+	"Display.h"
+
+1482860959 c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode_a-master\iotnodetest\include\display.h
+
+1483979434 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnodetest\main.cpp
+	<iostream>
+	"iotDataQueue.h"
+
+1482782876 c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnodetest\include\iotdataqueue.h
+
+1482860959 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnodetest\src\display.cpp
+	"Display.h"
+
+1483914416 c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnodetest\include\display.h
+	"iotDataQueue.h"
+
+1481654264 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnodetest\src\iotdataqueue.cpp
+	<iostream>
+	"iotDataQueue.h"
+
+1483979434 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnode\main.cpp
+	<iostream>
+	"iotDataQueue.h"
+
+1482782876 c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnode\include\iotdataqueue.h
+
+1481654264 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnode\src\iotdataqueue.cpp
+	<iostream>
+	"iotDataQueue.h"
+
+1483979434 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnode_a-master\iotnode\main.cpp
+	<iostream>
+	"iotDataQueue.h"
+
+1482782876 c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnode_a-master\iotnode\include\iotdataqueue.h
+
+1481654264 source:c:\users\macka\documents\itb 2016\software engineering\code\w3 - iotnode\iotnode_a-master\iotnode\src\iotdataqueue.cpp
+	<iostream>
+	"iotDataQueue.h"
+
