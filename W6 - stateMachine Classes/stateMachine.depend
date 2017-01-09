@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1483475478 source:c:\users\macka\documents\itb 2016\software engineering\code\w6 - statemachine\main.cpp
+	<iostream>
+
+1483477851 source:c:\users\macka\documents\itb 2016\software engineering\code\w6 - statemachine\main idle and sens.cpp
+	<iostream>
+
+1483827388 source:c:\users\macka\documents\itb 2016\software engineering\code\w6 - statemachine classes\main.cpp
+	<iostream>
+	"Node.h"
+	"State.h"
+	"Sensing.h"
+	"Processing.h"
+	"Idle.h"
+
+1483828133 c:\users\macka\documents\itb 2016\software engineering\code\w6 - statemachine classes\include\node.h
+
+1483829007 c:\users\macka\documents\itb 2016\software engineering\code\w6 - statemachine classes\include\state.h
+	"Node.h"
+
+1483829025 c:\users\macka\documents\itb 2016\software engineering\code\w6 - statemachine classes\include\idle.h
+	<State.h>
+	"Sensing.h"
+
+1483828982 c:\users\macka\documents\itb 2016\software engineering\code\w6 - statemachine classes\include\sensing.h
+	<State.h>
+	"Processing.h"
+
+1483828397 c:\users\macka\documents\itb 2016\software engineering\code\w6 - statemachine classes\include\processing.h
+	<State.h>
+	"Idle.h"
+
