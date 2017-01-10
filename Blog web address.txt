@@ -1,0 +1,3 @@
+Blog entries for the code contained in software-engineering repository. 
+
+https://iotprojectweb.wordpress.com/
