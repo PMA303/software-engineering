@@ -45,28 +45,15 @@ int main()
     humidity.qput(16);
 
     cout << "Contents of Temperature queue: ";
+    for (int i=0; i<9; i++){
     cout << temperature.qget() << " ";
-    cout << temperature.qget() << " ";
-    cout << temperature.qget() << " ";
-    cout << temperature.qget() << " ";
-    cout << temperature.qget() << " ";
-    cout << temperature.qget() << " ";
-    cout << temperature.qget() << " ";
-    cout << temperature.qget() << " ";
-    cout << temperature.qget() << " ";
+    }
     cout << temperature.qget() << "\n";
 
     cout << "Contents of Humidity queue: ";
+    for (int i=0; i<9; i++){
     cout << humidity.qget() << " ";
-    cout << humidity.qget() << " ";
-    cout << humidity.qget() << " ";
-    cout << humidity.qget() << " ";
-    cout << humidity.qget() << " ";
-    cout << humidity.qget() << " ";
-    cout << humidity.qget() << " ";
-    cout << humidity.qget() << " ";
-    cout << humidity.qget() << " ";
-    cout << humidity.qget() << "\n";
-
+    }
+    cout << humidity.qget() << "\n ";
     return 0;
 }
