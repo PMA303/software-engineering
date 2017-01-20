@@ -1,0 +1,10 @@
+<reading><time>10:00</time><temperature>30</temperature>
+<time>10:00</time><temperature>30</temperature>
+<time>10:00</time><temperature>30</temperature>
+<time>10:00</time><temperature>30</temperature>
+<time>10:00</time><temperature>30</temperature>
+<time>10:00</time><temperature>30</temperature>
+<time>10:00</time><temperature>30</temperature>
+<time>10:00</time><temperature>30</temperature>
+<time>10:00</time><temperature>30</temperature>
+<time>10:00</time><temperature>30</temperature></reading>
